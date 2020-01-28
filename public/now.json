@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "alias": "a1clark1a-bookmarks-app",
+  "name": "bookmarks-app",
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/index.html" }
+  ]
+}
