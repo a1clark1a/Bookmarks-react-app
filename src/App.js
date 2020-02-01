@@ -37,6 +37,7 @@ class App extends Component {
   };
 
   componentDidMount() {
+    console.log(ApiEndpoint);
     fetch(ApiEndpoint, {
       method: "GET",
       headers: headers

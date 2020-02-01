@@ -16,6 +16,7 @@ class AddBookmark extends Component {
   };
 
   handleSubmit = (bookmark, cb) => {
+    console.log(ApiEndpoint);
     this.setState({ error: null });
     fetch(ApiEndpoint, {
       method: "POST",
