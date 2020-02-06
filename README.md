@@ -1,7 +1,21 @@
 # IMPORTANT
 
-This project needs Bookmarks-server project to run
-https://github.com/a1clark1a/Bookmarks-server
+## LIVE APP 
+
+ * https://a1clark1a-bookmarks-app.now.sh/
+
+## Summary
+ * Bookmarks manager for storing URLs with appropriate ratings and description for ease of use.
+
+## Tech Stack
+ * React
+ * React Router
+ * React Context
+ * JavaScript
+ * JSX/HTML 5
+ * CSS3
+ * Zeit
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
